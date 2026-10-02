@@ -1,26 +1,28 @@
 # Hi, I'm Ekamjot Singh Walia 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning;Building+Meaningful+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Lover;Building+Meaningful+Products;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EkamjotWalia001&label=Profile%20Views&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=EkamjotWalia001&label=Profile%20Views&color=0e75b6" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0A66C2?style=flat-square&logo=rocket&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-00C853?style=flat-square&logo=checkmarx&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=flat-square&logo=checkmarx&logoColor=white" alt="Status" />
 </p>
 
 ## About Me
 
-I’m a developer who enjoys turning ideas into clean, scalable, and impactful digital experiences. I love solving real-world problems, learning modern technologies, and building projects that are practical, elegant, and useful.
+I’m a developer who enjoys turning ideas into clean, scalable, and meaningful digital experiences. I’m passionate about building products that are useful, polished, and thoughtfully engineered.
+
+I like solving real-world problems, exploring modern technologies, and continuously improving my craft through hands-on building and learning.
 
 - 💻 Passionate about software engineering and full-stack development
-- 🌱 Continuously learning new tools, frameworks, and best practices
-- 🚀 Interested in building products that improve everyday experiences
-- 🎯 Focused on writing maintainable, efficient, and readable code
+- 🌱 Constantly learning new technologies, frameworks, and best practices
+- 🚀 Interested in creating practical products that improve user experience
+- 🧠 Enjoy solving problems with logic, creativity, and clean architecture
 - 🤝 Open to collaboration, learning, and meaningful opportunities
 
-## Tech Stack
+## What I Work With
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,32 +48,32 @@ I’m a developer who enjoys turning ideas into clean, scalable, and impactful d
 
 ## Currently Learning
 
-- 🔧 Advanced frontend architecture and component design
-- ⚙️ Backend optimization and scalable APIs
-- 🧠 Problem solving through DSA and system design concepts
-- 🌐 Modern web tooling and developer productivity workflows
+- 🔧 Advanced frontend architecture and scalable UI systems
+- ⚙️ Backend optimization and REST API design
+- 🧠 Data structures, algorithms, and problem-solving discipline
+- 🌐 Modern tooling, developer workflows, and product thinking
 
 ## Featured Projects
 
-### 1. Portfolio / Product Showcase
-A polished project experience that highlights design thinking, user experience, and functional engineering.
+### 1. Full-Stack Product Experience
+A user-focused product idea turned into a polished digital experience with a clean interface and practical functionality.
 
-### 2. Web App / Utility Tool
-A practical, user-focused app designed to solve a real problem with a clean and intuitive interface.
+### 2. Web App / Utility Project
+A practical application designed to solve a real problem with an intuitive and efficient user experience.
 
-### 3. Automation / Developer Tool
-A utility or automation project focused on productivity, workflow improvement, or technical convenience.
+### 3. Developer Tool / Automation Project
+A productivity-focused project built to improve workflows, simplify tasks, or accelerate development processes.
 
-> Add your live project links, demos, and repositories here as you build them.
+> Add your live project links and GitHub repos here as you build and publish them.
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EkamjotWalia001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EkamjotWalia001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkamjotWalia001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkamjotWalia001&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -91,19 +93,19 @@ A utility or automation project focused on productivity, workflow improvement, o
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:ekamwalia01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-> Replace the LinkedIn URL with your actual profile once you add it.
+> Replace the LinkedIn link with your real profile once it’s ready.
 
 ## Quote
 
-> “Great software is not just functional — it is clear, reliable, and designed with intent.”
+> “Good software is not just functional — it is clear, reliable, and built with purpose.”
 
 ---
 
-Thanks for visiting! I’m always happy to connect, collaborate, and build something meaningful.
+Thanks for visiting! I’m always open to building meaningful things, learning new ideas, and collaborating with like-minded people.
